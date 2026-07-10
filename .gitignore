@@ -1,0 +1,29 @@
+# Environment variables
+*.env
+
+# Python virtual environment
+venv/
+.venv/
+
+# Binary files
+*.bin
+
+# Compiled Python files
+*.pyc
+__pycache__/
+
+# VS Code settings
+.vscode/
+
+# Database files
+*.sqlite3
+chroma_db/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Auto-generated travel plans
+travel_plans/
+
+# MacOS files
+.DS_Store

@@ -1,0 +1,16 @@
+tavily-python
+python-dotenv
+requests
+langchain-mcp-adapters
+streamlit
+langchain-core
+mcp
+langchain-groq
+psycopg-binary
+langgraph
+langchain
+langchain-community
+langchain-tavily
+psycopg-pool
+langgraph-checkpoint-postgres
+aviationstack-mcp
