@@ -24,6 +24,10 @@ The **Multi-Agent MCP Travel Planner** leverages four specialized AI agents to a
 
 ## 🛠️ Architecture & Workflow
 
+<p align="center">
+  <img src="assets/architecture.png" alt="Multi-Agent MCP Architecture Diagram" width="100%">
+</p>
+
 ```mermaid
 graph TD
     A[User Query] --> B(Flight Agent)
